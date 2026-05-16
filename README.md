@@ -13,16 +13,19 @@ It places all files in the correct system directories and creates shortcuts for 
 
 ## 📥 Download
 
-👉 Latest Version (Installer EXE):  
-https://www.mediafire.com/file/645b53g1mvhao4y/TunesKitInstaller.exe/file
+### 🔹 Google Drive (Recommended)
+👉 https://drive.google.com/file/d/1b_FrFjolQmPVCjAsJ5owV4GucB9c1DsV/view?usp=drive_link
 
-⬇️ Click the link above and press **Download** to get the installer.
+### 🔹 MediaFire
+👉 https://www.mediafire.com/file/645b53g1mvhao4y/TunesKitInstaller.exe/file
+
+⬇️ Click any link above and press **Download**.
 
 ---
 
 ## ⚙️ Installation
 
-1. Download the `.exe` file from the link above  
+1. Download the `.exe` file from one of the links above  
 2. Right-click the file → **Run as administrator**  
 3. Follow the installation steps  
 4. Wait until setup finishes  
@@ -31,8 +34,6 @@ https://www.mediafire.com/file/645b53g1mvhao4y/TunesKitInstaller.exe/file
 ---
 
 ## 📂 Installation Paths
-
-The installer will automatically create:
 
 C:\Program Files (x86)\TunesKit Audio Capture\
 
@@ -54,14 +55,6 @@ TunesKit Audio Capture.lnk
 
 ---
 
-## 🖼️ Preview
-
-![Installer](https://via.placeholder.com/800x400.png?text=Installer+Preview)
-
-![App](https://via.placeholder.com/800x400.png?text=TunesKit+Audio+Capture)
-
----
-
 ## 🧠 Requirements
 
 - Windows 10 / 11 (64-bit recommended)  
@@ -80,4 +73,4 @@ TunesKit Audio Capture.lnk
 
 ## 🎯 Summary
 
-A simple, fast, and automated installer for deploying TunesKit Audio Capture on any Windows PC.
+A simple and automated installer for deploying TunesKit Audio Capture on Windows PCs quickly and efficiently.
